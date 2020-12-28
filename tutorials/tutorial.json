@@ -1,0 +1,22 @@
+{
+   "name": "Git-101",
+   "appLayout": "accordion",
+   "appTheme": "g90",
+   "footer": "footer.md",
+   "tutorials": [
+      {
+         "title": "Git-101",
+         "description": "Git",
+         "duration": "30 min",
+         "tutorial_name": "git-101.md"
+      }
+   ],
+   "usefulLinks": [
+      {
+         "title": "",
+         "description": "",
+         "url": ""
+      }
+   ],
+   "support": []
+}
