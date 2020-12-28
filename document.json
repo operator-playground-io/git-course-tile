@@ -3,7 +3,7 @@
     "description": "Git",
     "logo": "_images/SalesStack.png",
     "has_supporting_content": true,
-    "stack_id": "kubernetes-course",
+    "stack_id": "git-course",
     "type": "Course",
     "categories": [
         ""
