@@ -1,7 +1,7 @@
 {
     "name": "Learn Git",
     "description": "Git",
-    "logo": "_images/SalesStack.png",
+    "logo": "_images/git_logo.png",
     "has_supporting_content": true,
     "stack_id": "git-course",
     "type": "Course",
